@@ -1,4 +1,4 @@
-# Astros
+# Astroskkkk
 
 ```
 npm create astro@latest -- --template blog
